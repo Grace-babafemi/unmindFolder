@@ -556,7 +556,7 @@ header .signContainer .request {
   /* margin-bottom: 20px; */
 }
 
-.caseStudys2 .userContainer i h3 {
+.caseStudys2 .userContainer i h2{
   margin-left: 10px;
   color: var(--text2);
 }
@@ -590,6 +590,10 @@ header .signContainer .request {
   justify-content: space-around;
   align-items: flex-start;
   flex-direction: column;
+}
+
+.caseStudy2 p {
+  color: white;
 }
 
 .containerParent {
